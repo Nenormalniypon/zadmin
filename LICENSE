@@ -1,0 +1,79 @@
+Z Admin
+Copyright (c) 2026 zkito. Все права защищены. All rights reserved.
+
+==============================================================================
+ЛИЦЕНЗИЯ (русский текст)
+==============================================================================
+
+1. Программа Z Admin, включая её исходный код, интерфейс, дизайн, логотип,
+   тексты и сопутствующие материалы (далее «Программа»), является объектом
+   авторского права. Все исключительные права принадлежат автору (zkito).
+
+2. Разрешается:
+   а) скачивать готовую сборку Программы (exe-файл) из официальных источников
+      автора и пользоваться ею на своих компьютерах;
+   б) просматривать исходный код, если автор сделал его доступным.
+
+3. Без письменного разрешения автора запрещается:
+   а) копировать исходный код целиком или по частям;
+   б) изменять, переделывать, переводить исходный код или Программу;
+   в) создавать на основе Программы или её кода другие программы, сервисы,
+      форки и производные работы, в том числе похожие программы с
+      использованием фрагментов кода, архитектуры, интерфейса или дизайна;
+   г) распространять, публиковать, продавать, сдавать в аренду или иным
+      образом передавать Программу или её код третьим лицам, кроме передачи
+      неизменённого официального exe-файла для личного использования;
+   д) удалять или изменять упоминания об авторе и об авторских правах;
+   е) декомпилировать, распаковывать и изучать собранную Программу с целью
+      получить исходный код, кроме случаев, прямо разрешённых законом.
+
+4. Программа предоставляется «как есть», без каких-либо гарантий. Автор не
+   отвечает за любой ущерб, связанный с использованием Программы.
+
+5. Компоненты сторонних разработчиков, входящие в Программу, распространяются
+   на условиях их собственных лицензий (см. файл THIRD-PARTY-NOTICES.txt).
+   Настоящая лицензия на них не распространяется.
+
+6. Нарушение условий лицензии прекращает право пользоваться Программой и
+   является нарушением исключительного права автора (часть 4 Гражданского
+   кодекса Российской Федерации, Бернская конвенция).
+
+Связаться с автором: Telegram @zkito, Discord _zkito.
+
+==============================================================================
+LICENSE (English text)
+==============================================================================
+
+1. Z Admin, including its source code, user interface, design, logo, texts
+   and related materials (the "Software"), is protected by copyright. All
+   rights belong to the author (zkito).
+
+2. You may:
+   a) download the official build of the Software (exe file) from the
+      author's official sources and use it on your own computers;
+   b) view the source code if the author has made it available.
+
+3. Without the author's written permission you may NOT:
+   a) copy the source code, in whole or in part;
+   b) modify, adapt or translate the source code or the Software;
+   c) create other software, services, forks or derivative works based on the
+      Software or its code, including similar software that reuses parts of
+      its code, architecture, user interface or design;
+   d) distribute, publish, sell, rent or otherwise transfer the Software or its
+      code to third parties, except passing on the unmodified official exe
+      file for personal use;
+   e) remove or alter any author or copyright notices;
+   f) decompile, unpack or reverse engineer the built Software to obtain its
+      source code, except where the law expressly allows it.
+
+4. The Software is provided "as is", without warranty of any kind. The author
+   is not liable for any damage arising from its use.
+
+5. Third-party components included in the Software are licensed under their
+   own terms (see THIRD-PARTY-NOTICES.txt). This license does not apply to
+   them.
+
+6. Any breach of these terms ends your right to use the Software and
+   infringes the author's copyright.
+
+Contact: Telegram @zkito, Discord _zkito.
